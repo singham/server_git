@@ -17,6 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     NSLog(@"First commit from user1");
+    NSLog(@"First commit from user2");
     return YES;
 }
 
